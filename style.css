@@ -814,15 +814,15 @@ h4 {
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lignes.png");
+    background-image: url("img/lignes.webp");
 }
 
 .bg-banniere {
-    background-image: url("img/travail-bureau_1920-l.jpg");
+    background-image: url("img/travail-bureau_1920-l.webp");
 }
 
 .bg-presentation {
-    background-image: url("img/ecriture-sur-post-it_1920-l.jpg");
+    background-image: url("img/ecriture-sur-post-it_1920-l.webp");
 }
 
 @media (max-width: 1024px) {
